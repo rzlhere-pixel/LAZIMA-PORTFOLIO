@@ -1,5 +1,9 @@
 # CLAUDE.md — LAZIMA PORTFOLIO / LAZIQUE
 
+## NOVEMBER 10 — FULL SOURCE PACKAGE ON ASUS
+
+**Read `docs/CLAUDE_COMPLETE_SOURCE_HANDOFF.md` and `docs/LAYERED_EDITORIAL_PAGE_PLAN.md` first.** The full extracted academic, cover, mockup and Sadah employer image sources are present locally under `source/private/` (git-ignored; not visible in a fresh cloud-only clone). The 12-page Claude-generated PDF is **academic-only**. Professional Sadah 19-photo archive must visually lead; academic sketches remain a supporting ~20% section. Do not claim personal design ownership without evidence. Follow the high-resolution per-layer A4 plan; no generative alteration of faces/clothes. Do not force-push private asset sources to this public GitHub repo.
+
 ## PRIMARY APPROVED MOTIVE — 10 NOV 2026
 
 **Make a VISUAL FASHION PORTFOLIO, not a résumé in portfolio format.** Give original sketches the largest share of each composition, build rich curated moodboards, use a soft editorial palette, oversized confident typography, and only essential words. Visual impact and evidence of the actual creative process come first. For all design work, read [VISUAL_DIRECTION.md](docs/VISUAL_DIRECTION.md) and review the built portfolio in [site/index.html](site/index.html) (layout master) and [the source register](docs/SOURCE_ATTRIBUTION_REGISTER.md) before changing layouts.

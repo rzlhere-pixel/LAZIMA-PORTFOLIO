@@ -1,5 +1,7 @@
 # LAZIMA PORTFOLIO · LAZIQUE
 
+**Latest local project handoff:** [Complete source register](docs/CLAUDE_COMPLETE_SOURCE_HANDOFF.md) · [17-page layered A4 editorial plan](docs/LAYERED_EDITORIAL_PAGE_PLAN.md). Sadah professional images are the primary visual work; Paper Flower is solely academic. The complete image ZIPs, cover candidates, and mockup references are available to Claude Code on the authorized ASUS under git-ignored `source/private/` and are not in this public repository.
+
 A **visual-first fashion portfolio** workspace for LAZIMA, with the complementary **LAZIQUE** creative identity.
 
 **Creative motive (approved 10 November 2026):** Larger original sketches, richer layered moodboards, softer colour stories, bold editorial typography, and minimal text. **The work must look like a fashion designer’s visual book, not a corporate résumé.**

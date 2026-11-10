@@ -1,4 +1,6 @@
 # Private / unreviewed documents and media: never push to this public repo.
+source/private/
+exports/private/
 source_documents/
 source_text/
 private/
