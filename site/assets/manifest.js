@@ -1,9 +1,9 @@
-/* Asset slot manifest.
+﻿/* Asset slot manifest.
  *
  * Every image on the portfolio is a named slot. `file` points to the
  * git-ignored local folder `assets/private/` (filled by
  * tools/extract_assets.py from the private source scan). When the file is
- * absent — e.g. on any public copy of this repo — the slot renders a clearly
+ * absent â€” e.g. on any public copy of this repo â€” the slot renders a clearly
  * labelled placeholder instead.
  *
  * `approved` must stay false until the owner signs off the asset in
@@ -14,46 +14,46 @@
  */
 window.LAZIMA_ASSETS = {
   "look-01": {
-    file: "assets/private/look-01.jpg", ratio: 1472 / 2096, kind: "original",
+    file: "assets/published/look-01.png", ratio: 1472 / 2096, kind: "original",
     alt: "Look 01: fashion illustration of a long magenta dress with one ruffled sleeve and a high slit, figure under two teal spotlights on black.",
     credit: "Lazima C A. Original digital illustration, Paper Flower, 2023.",
-    status: "Original student work. Local preview only; owner approval pending.",
-    approved: false
+    status: "Original student work. Owner approved for portfolio/GitHub publication on 10 Nov 2026.",
+    approved: true
   },
   "look-02": {
-    file: "assets/private/look-02.jpg", ratio: 1501 / 2132, kind: "original",
+    file: "assets/published/look-02.png", ratio: 1501 / 2132, kind: "original",
     alt: "Look 02: illustration of a cropped short-sleeve top with a tiered magenta midi skirt trimmed with small florets.",
     credit: "Lazima C A. Original digital illustration, Paper Flower, 2023.",
-    status: "Original student work. Local preview only; owner approval pending.",
-    approved: false
+    status: "Original student work. Owner approved for portfolio/GitHub publication on 10 Nov 2026.",
+    approved: true
   },
   "look-03": {
-    file: "assets/private/look-03.jpg", ratio: 1489 / 2118, kind: "original",
+    file: "assets/published/look-03.png", ratio: 1489 / 2118, kind: "original",
     alt: "Look 03: illustration of a ruffle-sleeved crop top with flared magenta trousers.",
     credit: "Lazima C A. Original digital illustration, Paper Flower, 2023.",
-    status: "Original student work. Local preview only; owner approval pending.",
-    approved: false
+    status: "Original student work. Owner approved for portfolio/GitHub publication on 10 Nov 2026.",
+    approved: true
   },
   "look-04": {
-    file: "assets/private/look-04.jpg", ratio: 1497 / 2128, kind: "original",
-    alt: "Look 04: illustration of a cropped top and a red midi skirt with rows of floral appliqué.",
+    file: "assets/published/look-04.png", ratio: 1497 / 2128, kind: "original",
+    alt: "Look 04: illustration of a cropped top and a red midi skirt with rows of floral appliquÃ©.",
     credit: "Lazima C A. Original digital illustration, Paper Flower, 2023.",
-    status: "Original student work. Local preview only; owner approval pending.",
-    approved: false
+    status: "Original student work. Owner approved for portfolio/GitHub publication on 10 Nov 2026.",
+    approved: true
   },
   "look-05": {
-    file: "assets/private/look-05.jpg", ratio: 1434 / 2038, kind: "original",
+    file: "assets/published/look-05.png", ratio: 1434 / 2038, kind: "original",
     alt: "Look 05: illustration of a plum V-neck dress with ruffled shoulders and a tiered skirt, under teal spotlights.",
     credit: "Lazima C A. Original digital illustration, Paper Flower, 2023.",
-    status: "Original student work. Local preview only; owner approval pending.",
-    approved: false
+    status: "Original student work. Owner approved for portfolio/GitHub publication on 10 Nov 2026.",
+    approved: true
   },
   "spec-sheet": {
-    file: "assets/private/spec-sheet.jpg", ratio: 1465 / 1930, kind: "original",
+    file: "assets/published/spec-sheet.png", ratio: 1465 / 1930, kind: "original",
     alt: "Garment specification sheet for style SSRCO12 with front and back flat drawings of a V-neck dress with pleated sleeves, waistband and two-layer skirt.",
     credit: "Lazima C A. Garment specification sheet, Paper Flower, 26 July 2023.",
-    status: "Original student work. Local preview only; owner approval pending.",
-    approved: false
+    status: "Original student work. Owner approved for portfolio/GitHub publication on 10 Nov 2026.",
+    approved: true
   },
   "pattern-board": {
     file: "assets/private/pattern-board.jpg", ratio: 1230 / 2180, kind: "original",
@@ -125,3 +125,4 @@ window.LAZIMA_ASSETS = {
     approved: false
   }
 };
+

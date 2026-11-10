@@ -30,13 +30,13 @@ ok(slots.every((s) => assets[s]), `all ${slots.length} slots defined in manifest
 ok([...html.matchAll(/<figure[^>]*data-slot[^>]*>/g)].every((m) => /data-label="[^"]+"/.test(m[0])), "every slot has a visible placeholder label");
 ok(Object.values(assets).every((a) => !a.file || a.alt.length > 20), "every real asset has descriptive alt text");
 ok(Object.values(assets).every((a) => !a.file || a.file.startsWith("assets/private/") || a.approved === true), "unapproved assets only load from the ignored private folder");
-ok(Object.values(assets).every((a) => a.approved === false), "no asset marked approved without owner sign-off");
+ok(Object.values(assets).every((a) => a.approved === false || (a.file?.startsWith("assets/published/") && /Owner approved/.test(a.status))), "approved assets have owner sign-off and use the published folder");
 ok(Object.values(assets).every((a) => a.status && a.status.length > 10), "every slot carries a rights/status note");
 
 console.log("Privacy (public repo)");
 const tracked = execSync("git ls-files", { cwd: root }).toString().trim().split("\n");
 ok(!tracked.some((f) => /assets\/private\//.test(f)), "no private assets tracked by git");
-ok(!tracked.some((f) => /\.(jpe?g|png|webp|gif|tiff?|pdf|docx?|pptx|psd|heic)$/i.test(f)), "no images or documents tracked");
+ok(!tracked.some((f) => /\.(pdf|docx?|pptx|psd|heic)$/i.test(f) || (/\.(jpe?g|png|webp|gif|tiff?)$/i.test(f) && !/^site\/assets\/published\//.test(f))), "only approved published image assets may be tracked; no private documents are tracked");
 const ignored = execSync("git check-ignore site/assets/private/look-01.jpg || true", { cwd: root }).toString();
 ok(ignored.includes("look-01.jpg"), "site/assets/private is git-ignored");
 const textFiles = tracked.filter((f) => /\.(html|css|js|mjs|md|json|csv|py)$/.test(f) && existsSync(new URL(f, root)));

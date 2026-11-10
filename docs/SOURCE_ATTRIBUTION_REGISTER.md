@@ -20,8 +20,8 @@ Every asset is a **crop only** of the native-resolution page scan: no retouching
 
 | Asset ID | SRC-A page | Category | Creator | Rights / consent | Portfolio use | Status |
 |---|---|---|---|---|---|---|
-| look-01 … look-05 | 14–18 | Original digital illustrations, 5 looks | Lazima C A (designer named on spec sheet) | Student work; spotlight backdrop origin unconfirmed | Cover, 04, 05, 10, 12 | Pending owner approval |
-| spec-sheet | 12 | Garment specification sheet with front/back flats, style SSRCO12, dated 26-07-2023 | Lazima C A | Student work | 06, 09 | Pending owner approval |
+| look-01 … look-05 | 14–18 | Original digital illustrations, 5 looks | Lazima C A (designer named on spec sheet) | Student work; spotlight backdrop origin unconfirmed | Cover, 04, 05, 10, 12 | **Owner approved for GitHub/portfolio publication · 10 Nov 2026** |
+| spec-sheet | 12 | Garment specification sheet with front/back flats, style SSRCO12, dated 26-07-2023 | Lazima C A | Student work | 06, 09 | **Owner approved for GitHub/portfolio publication · 10 Nov 2026** |
 | pattern-board | 13 | Photo of hand-drafted paper patterns | Lazima C A (patterns); photographer unconfirmed | Photo credit needed | 06, 09 | Pending owner approval |
 | production-board | 19 | Photo collage of the finished garment being worn | Garment: Lazima C A; photographer and wearer unconfirmed | **Identifiable person: wearer consent required.** Shown unaltered | 06 | Blocked for publication until consent and credit |
 | board-inspiration, board-theme | 6, 5 | Compiled bougainvillea photo boards | Compiled by Lazima C A; photos by third parties | Third-party photographs | 03 | Private reference only |
