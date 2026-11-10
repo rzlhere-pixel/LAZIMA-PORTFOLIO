@@ -4,9 +4,26 @@ A **visual-first fashion portfolio** workspace for LAZIMA, with the complementar
 
 **Creative motive (approved 10 November 2026):** Larger original sketches, richer layered moodboards, softer colour stories, bold editorial typography, and minimal text. **The work must look like a fashion designer’s visual book, not a corporate résumé.**
 
-**[Open the visual layout prototype](preview/index.html)** · [Read the visual design direction](docs/VISUAL_DIRECTION.md)
+**Portfolio site: [`site/index.html`](site/index.html)** (12 A4 pages; responsive; prints to A4) · [Visual direction](docs/VISUAL_DIRECTION.md) · [Source register](docs/SOURCE_ATTRIBUTION_REGISTER.md) · [Canva production plan](docs/CANVA_PRODUCTION_PLAN.md)
 
-The prototype contains original decorative placeholder drawings, **not** verified examples of Lazima's work. Actual garment illustrations and photography are not yet uploaded.
+The earlier [layout study](preview/index.html) is kept for reference and has been superseded by `site/`.
+
+## Preview locally
+
+```bash
+npm run serve        # http://127.0.0.1:4173  (localhost only)
+npm test             # structure, a11y basics, contrast, print rules, privacy guards
+```
+
+**With the original artwork (owner's machine only):** run `python tools/extract_assets.py "<path to the private scanned Paper Flower portfolio PDF>"`. Crops are written to `site/assets/private/`, which git ignores. Without that folder, every image slot shows a clearly labelled placeholder. That is what any public copy of this repo shows.
+
+- **Source notes** (toolbar) shows the rights status on every image.
+- **Print A4** (toolbar, or the browser's print dialog) produces one A4 page per sheet. Choose *Save as PDF*, margins *None*, *Background graphics* on.
+
+## Publishing gate
+Images are published only after the owner approves each asset in [the source register](docs/SOURCE_ATTRIBUTION_REGISTER.md): set `approved: true` in `site/assets/manifest.js` and move the file out of `assets/private/` in a reviewed PR. `npm test` fails if an unapproved asset could be published or if any image/document is tracked.
+
+This repository contains **no images**. The site loads Lazima's original Paper Flower artwork only from a local, git-ignored folder; everywhere else it shows labelled placeholders.
 
 > **Public repository notice:** This is a publication-safe working scaffold, **not** the complete private project archive and **not** a finished, fact-verified portfolio. Personal photographs, employer work files, detailed employment records, CVs, interview materials, and permission evidence are intentionally excluded.
 

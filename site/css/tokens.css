@@ -1,0 +1,40 @@
+/* LAZIMA portfolio design tokens.
+   Soft palette = owner-approved (docs/VISUAL_DIRECTION.md).
+   Collection colours = sampled from the original Paper Flower colour and
+   fabric boards (median-cut, see docs/CANVA_PRODUCTION_PLAN.md). */
+:root {
+  /* paper + soft editorial palette */
+  --ivory: #F6F2EC;
+  --rose: #E9D9D6;
+  --lilac: #CFC7D7;
+  --sage: #C4CBBE;
+  --mist: #D5DFE5;
+  --plum: #312734;
+  --cocoa: #5A483F;        /* darkened from approved #756257 so captions pass 4.5:1 on every tint */
+
+  /* sampled from the original collection */
+  --bougainvillea: #C72E57;
+  --mulberry: #840F2F;
+  --petal: #D22D44;
+  --spotlight: #3B616B;
+
+  /* surfaces */
+  --desk: #DCD3D2;         /* the "light table" the pages rest on */
+  --ink: var(--plum);
+
+  /* type */
+  --display: "Bodoni Moda", "Didot", "Bodoni 72", Georgia, serif;
+  --text: "Hanken Grotesk", "Helvetica Neue", Arial, sans-serif;
+
+  /* page-relative type scale (cqw = 1% of the A4 page width) */
+  --t-giant: 24cqw;
+  --t-huge: 15cqw;
+  --t-xl: 10cqw;
+  --t-l: 6cqw;
+  --t-m: 3.4cqw;
+  --t-caption: max(10px, 1.55cqw);
+  --t-micro: max(9px, 1.25cqw);
+
+  /* page grid */
+  --margin: 6%;
+}

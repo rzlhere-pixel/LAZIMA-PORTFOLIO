@@ -2,7 +2,7 @@
 
 ## PRIMARY APPROVED MOTIVE — 10 NOV 2026
 
-**Make a VISUAL FASHION PORTFOLIO, not a résumé in portfolio format.** Give original sketches the largest share of each composition, build rich curated moodboards, use a soft editorial palette, oversized confident typography, and only essential words. Visual impact and evidence of the actual creative process come first. For all design work, read [VISUAL_DIRECTION.md](docs/VISUAL_DIRECTION.md) and review [the public-safe prototype](preview/index.html) before choosing layouts.
+**Make a VISUAL FASHION PORTFOLIO, not a résumé in portfolio format.** Give original sketches the largest share of each composition, build rich curated moodboards, use a soft editorial palette, oversized confident typography, and only essential words. Visual impact and evidence of the actual creative process come first. For all design work, read [VISUAL_DIRECTION.md](docs/VISUAL_DIRECTION.md) and review the built portfolio in [site/index.html](site/index.html) (layout master) and [the source register](docs/SOURCE_ATTRIBUTION_REGISTER.md) before changing layouts.
 
 **Do:** full-bleed sketches, asymmetrical image-led spreads, tactile fabric/colour research, deliberate negative space, expressive word hierarchy, concise captions.
 
@@ -19,7 +19,7 @@ Build an authentic, editable professional fashion portfolio and maintain a compl
 1. `README.md`
 2. `docs/STATUS.md`
 3. `docs/VISUAL_DIRECTION.md`
-4. `preview/index.html`
+4. `site/index.html` (built portfolio; `preview/index.html` is the superseded study) and `docs/SOURCE_ATTRIBUTION_REGISTER.md`
 5. `docs/PORTFOLIO_STORYBOARD.md`
 6. `docs/CREATIVE_STANDARDS.md`
 7. `docs/PRIVACY_AND_SOURCES.md`

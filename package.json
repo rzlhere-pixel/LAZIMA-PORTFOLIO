@@ -1,0 +1,13 @@
+{
+  "name": "lazima-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Visual-first A4 fashion portfolio for Lazima (static site, no build step).",
+  "type": "module",
+  "scripts": {
+    "serve": "node tools/serve.mjs",
+    "test": "node tools/check.mjs",
+    "extract": "python tools/extract_assets.py"
+  },
+  "engines": { "node": ">=18" }
+}
