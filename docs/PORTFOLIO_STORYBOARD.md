@@ -1,43 +1,40 @@
-# Fashion Portfolio — 12-Page Editorial Storyboard
+# Fashion Portfolio — Visual-First A4 Storyboard
 
-**Working master:** Canva-editable A4 portrait, 210 × 297 mm. Use a professional, restrained editorial design. No invented biography, work history or photos. If evidence is insufficient, reduce page count rather than filling with generic examples.
+**Approved motive (10 November 2026):** Bigger original sketches. Richer moodboards. Softer colours. Bold editorial typography. Minimal copy. This is an immersive fashion portfolio, **not** a résumé disguised as a design book.
 
-| Page | Section | Must show | Evidence needed |
-|---|---|---|---|
-| 01 | Cover | Approved name/title, strongest original garment or illustration, clear visual hierarchy | Approved identity, source art, usage permission |
-| 02 | Profile | 70–100-word factual biography; demonstrated skills and education | Approved CV, educational records and first-person sign-off |
-| 03 | Selected work | Three projects with role, year, short brief, ownership scope | Actual project list, authorization |
-| 04 | Case study A / concept | Wearer, objective, constraints, inspiration and alternatives | Original concept/moodboard/sketches |
-| 05 | Case study A / outcome | Real sample/final garment, technical choices, role and results | Original photograph, attribution, approval |
-| 06 | Case study B / problem | Real technical or fit/quality problem and diagnostic steps | Redacted evidence and personal contribution |
-| 07 | Case study B / correction | Revision evidence, approvals and actual outcome | Revision records, image and permission |
-| 08 | Case study C / concept | Original personal or academic concept, clearly labelled | Full original drawings and project context |
-| 09 | Case study C / development | Silhouette, fabrics, flats and constructed results where present | Sketch-to-sample evidence |
-| 10 | Technical capability | Legible front/back flats, points of measure, trims and construction examples | Authentic or clearly labelled recreated files |
-| 11 | Experience | Verified garment-production/design responsibilities; teamwork | Role/date/employer confirmation, supported results |
-| 12 | Contact | Approved professional channel and next-step CTA | Owner's public-contact approval |
+**Output:** Canva-editable A4 portrait, 210 × 297 mm. Start with a 12-page story; expand or reduce according to available *real* artwork. Layout emphasis: **80–90% visual / 10–20% text as a creative target**, never a hard measurement that sacrifices needed credits.
 
-## Design principles
-- Warm ivory or another approved restrained base, dark highly legible body copy, purposeful accent only.
-- One editorial display type and one readable body family; no unlicensed fonts or unverified wordmarks.
-- Wide margins, consistent grid/captions, strong image hierarchy, readable technical illustrations.
-- Distinguish **original artwork**, **employer work**, **recreated diagrams**, and **inspiration/reference**.
-- No third-party sample mockup identities, borrowed academic credentials or invented garments.
+| Page | Visual composition | Maximum writing |
+|---|---|---|
+| 01 Cover | One striking full-page approved fashion sketch, huge name/title, soft background | Name + FASHION PORTFOLIO |
+| 02 Identity | Portrait/photo only if approved, personal marks, one powerful editorial line | 1–2 line introduction |
+| 03 Moodboard I | Oversized image collage: textiles, colour, silhouette, references | Short mood keywords |
+| 04 Sketchbook I | Dominant full-page hand-drawn illustration, precise cropping preserving all real artwork | Look title / technique |
+| 05 Sketchbook II | Two to four enlarged concept iterations, pencil details and notes | 3 tiny annotations |
+| 06 Concept to garment | Visual sequence: sketch → fabric → sample → real finished garment | 3 short stages |
+| 07 Modest wear | Hero original modest-wear look, technical silhouette or finished photo | Title + exact role |
+| 08 Moodboard II | More experimental visual research, layered swatches/texture and form | Keyword strip |
+| 09 Construction / detail | Seam, pattern, flat or quality/fit process evidence, at large size | Only essential notes |
+| 10 Selected collection | Gallery spread with 3–5 verified original works | Short names/year |
+| 11 About / practice | One authentic portrait or approved workspace image plus concise biography | 3–5 lines max |
+| 12 Closing | Single visual echo of cover, approved contact method, ample negative space | Contact + credit |
 
-## Case-study template
-- Project title / date / category:
-- Client or audience, if publishable:
-- Brief / problem:
-- Constraints:
-- My exact role versus collaborators:
-- Process and decisions:
-- Technical details:
-- Iterations:
-- Actual outcome:
-- Original supporting files:
-- Photo/design owner and credit:
-- Publication permission:
-- Status and approver:
+**Ownership caution:** These are page concepts, *not* claims that actual images, garments or original files are available. Do not represent an academic illustration as a manufactured garment unless evidenced. Use genuine artwork only; indicate AI/demonstration placeholders where applicable. Label employer-owned work and obtain the necessary permission.
 
-## Export acceptance
-Canva editability, aligned fonts, real image integrity, no overflow, consistent pagination, A4 print PDF proof, legible phone-size proof, owner approval and an asset-credit appendix as needed.
+## Visual rules
+- Every spread needs one focal element. Most sketches should be shown at 60–100% of the usable page height when technically feasible.
+- Moodboards are curated compositions, not nine evenly sized identical rectangles. Use varied scale, overlap, margins, clipping, small captions and photographed physical texture.
+- Type: heavy editorial display hierarchy; elegant readable support; no decorative unreadable fonts.
+- Palette: warm ivory, blush, dusty lilac, sage, powder blue, cocoa/burgundy ink. Pick 2–3 per collection; preserve garment colour accuracy.
+- Minimal editorial copy. Keep one-line look labels and tiny technical notes; relocate verbose résumé detail to an optional appendix.
+- Strong opening, one bold visual pivot in the middle, and quiet ending.
+- Build in Canva with separate editable layers and licensed fonts, not a single flattened page image.
+
+## Production sequence
+1. Make an asset board with authorship/usage status for each sketch, moodboard, textile and photo.
+2. Select 8–15 strongest approved original art pieces; choose hero sketches first.
+3. Produce four experimental page designs with actual images: cover, moodboard, sketchbook, modest-wear case study.
+4. Review visual direction, factual evidence, credits and photo fidelity.
+5. Extend to the remaining spreads and deliver Canva-editable A4 plus proof PDF.
+
+Reference: [Visual direction](VISUAL_DIRECTION.md) · [Layout prototype](../preview/index.html)

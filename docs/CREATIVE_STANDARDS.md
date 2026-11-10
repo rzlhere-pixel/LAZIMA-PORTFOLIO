@@ -1,5 +1,9 @@
 # LAZIQUE — Creative & Image Integrity Standards
 
+## Primary visual motive
+
+**Larger sketches, richer moodboards, softer colours, bold typography and minimal text.** Original fashion illustrations and creative development should dominate the page. Avoid template-heavy corporate presentation. See [VISUAL_DIRECTION.md](VISUAL_DIRECTION.md) for detailed art direction and [the prototype](../preview/index.html).
+
 ## Identity
 Personal creative studio visual direction: **Quiet Luxury × Fashion Editorial × Personal Creative Studio**. Use restrained layering, believable shadows and elegant typography, not synthetic glamour or generic AI décor.
 

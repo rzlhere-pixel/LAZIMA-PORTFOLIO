@@ -1,6 +1,12 @@
 # LAZIMA PORTFOLIO · LAZIQUE
 
-A professional portfolio workspace for fashion-design presentation, garment-production storytelling, and the **LAZIQUE** personal creative identity.
+A **visual-first fashion portfolio** workspace for LAZIMA, with the complementary **LAZIQUE** creative identity.
+
+**Creative motive (approved 10 November 2026):** Larger original sketches, richer layered moodboards, softer colour stories, bold editorial typography, and minimal text. **The work must look like a fashion designer’s visual book, not a corporate résumé.**
+
+**[Open the visual layout prototype](preview/index.html)** · [Read the visual design direction](docs/VISUAL_DIRECTION.md)
+
+The prototype contains original decorative placeholder drawings, **not** verified examples of Lazima's work. Actual garment illustrations and photography are not yet uploaded.
 
 > **Public repository notice:** This is a publication-safe working scaffold, **not** the complete private project archive and **not** a finished, fact-verified portfolio. Personal photographs, employer work files, detailed employment records, CVs, interview materials, and permission evidence are intentionally excluded.
 
@@ -8,7 +14,8 @@ A professional portfolio workspace for fashion-design presentation, garment-prod
 
 **Start with [CLAUDE.md](CLAUDE.md).** Then use:
 - [Project status](docs/STATUS.md) — what is ready, blocked, or awaiting confirmation
-- [Portfolio storyboard](docs/PORTFOLIO_STORYBOARD.md) — A4 editorial portfolio plan
+- [Portfolio storyboard](docs/PORTFOLIO_STORYBOARD.md) — A4, image-led portfolio plan
+- [Visual direction](docs/VISUAL_DIRECTION.md) — approved visual-first brief, typography, layout and palette
 - [Creative standards](docs/CREATIVE_STANDARDS.md) — LAZIQUE design and photo-preservation rules
 - [Source and publishing rules](docs/PRIVACY_AND_SOURCES.md) — attribution, permission and privacy
 - [Blank asset register](docs/ASSET_REGISTER_TEMPLATE.csv) — source-by-source provenance

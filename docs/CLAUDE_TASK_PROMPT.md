@@ -2,11 +2,13 @@
 
 Read `CLAUDE.md` and all linked docs in this repository. Perform a read-only audit first.
 
-Your goal is to build a premium, Canva-editable A4 fashion portfolio and related LAZIQUE identity deliverables **only from properly authorized originals**.
+Your goal is to build a premium, **visual-first**, Canva-editable A4 fashion portfolio and related LAZIQUE identity deliverables **only from properly authorized originals**.
+
+The user's approved creative motive is **large sketches + rich moodboards + soft colours + bold editorial typography + almost no text**. Never make a conventional résumé-style deck. Start from [VISUAL_DIRECTION.md](VISUAL_DIRECTION.md) and [preview/index.html](../preview/index.html). The public prototype has placeholder imagery only.
 
 1. Inventory and classify all available assets; list missing sources and rights.
 2. Reconcile dated decisions without inventing answers, employer credits, metrics or project achievements.
-3. Design a 12-page editorial storyboard. Keep missing photos and biographical facts as clearly labelled placeholders.
+3. Design a 12-page visual-first editorial storyboard featuring original hand-drawn sketches, diverse-scale moodboards, textile details, and very short captions. Keep missing photos and biographical facts as clearly labelled placeholders.
 4. Propose an editable Canva production map: page grids, typography hierarchy, asset slots, short accurate captions, technical-drawing treatment and QA steps.
 5. Prepare a concept/spec sheet for 4K Windows wallpapers. Do not generate or alter the person unless exact unchanged original pixels can be retained and verified.
 6. Give a release checklist with owner approvals and links only to actual generated artifacts.

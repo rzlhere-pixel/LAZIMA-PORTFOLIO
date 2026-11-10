@@ -1,5 +1,15 @@
 # CLAUDE.md — LAZIMA PORTFOLIO / LAZIQUE
 
+## PRIMARY APPROVED MOTIVE — 10 NOV 2026
+
+**Make a VISUAL FASHION PORTFOLIO, not a résumé in portfolio format.** Give original sketches the largest share of each composition, build rich curated moodboards, use a soft editorial palette, oversized confident typography, and only essential words. Visual impact and evidence of the actual creative process come first. For all design work, read [VISUAL_DIRECTION.md](docs/VISUAL_DIRECTION.md) and review [the public-safe prototype](preview/index.html) before choosing layouts.
+
+**Do:** full-bleed sketches, asymmetrical image-led spreads, tactile fabric/colour research, deliberate negative space, expressive word hierarchy, concise captions.
+
+**Do not:** dense biographies, routine corporate boxes, large paragraphs, skill-percentage graphics, invented artworks, busy ornaments or generic AI-looking moodboards.
+
+The publicly shared preview is a layout study containing placeholders, **not her original artwork**.
+
 This file is the starting point for Claude Code. This repository is **public**: do not commit private sources, portraits, employment evidence, contact details, or employer-owned files.
 
 ## Objective
@@ -8,11 +18,13 @@ Build an authentic, editable professional fashion portfolio and maintain a compl
 ## Read in order
 1. `README.md`
 2. `docs/STATUS.md`
-3. `docs/PORTFOLIO_STORYBOARD.md`
-4. `docs/CREATIVE_STANDARDS.md`
-5. `docs/PRIVACY_AND_SOURCES.md`
-6. `docs/ASSET_REGISTER_TEMPLATE.csv`
-7. `docs/CLAUDE_TASK_PROMPT.md`
+3. `docs/VISUAL_DIRECTION.md`
+4. `preview/index.html`
+5. `docs/PORTFOLIO_STORYBOARD.md`
+6. `docs/CREATIVE_STANDARDS.md`
+7. `docs/PRIVACY_AND_SOURCES.md`
+8. `docs/ASSET_REGISTER_TEMPLATE.csv`
+9. `docs/CLAUDE_TASK_PROMPT.md`
 
 ## Non-negotiable rules
 - Preserve original human photos **exactly** where identity preservation is requested. Do not generate a lookalike; do not alter face shape, skin, pose, body proportions, scarf, hair, hands, or clothing. Use compositing with original pixels, separate masks/layers, and 100%-zoom QA.
