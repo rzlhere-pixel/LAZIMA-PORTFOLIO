@@ -21,3 +21,8 @@ assets/pending/
 !.env.example
 .DS_Store
 Thumbs.db
+
+# Local production outputs (contain private personal/employer imagery)
+deliverables/
+build/
+__pycache__/

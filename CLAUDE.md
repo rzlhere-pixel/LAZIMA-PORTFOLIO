@@ -1,5 +1,9 @@
 # CLAUDE.md — LAZIMA PORTFOLIO / LAZIQUE
 
+## CURRENT DIRECTION — A4 LANDSCAPE FINAL (10 NOV 2026, supersedes the sections below where they conflict)
+
+**Read `docs/A4_LANDSCAPE_PRODUCTION.md` first.** The portfolio is now **16 pages, A4 landscape (297 × 210 mm)**, built from code by `tools/portfolio/produce.py` into git-ignored `deliverables/`. **Original sketches lead (pp. 03–13); Sadah is a limited professional section (pp. 14–15)**; Paper Flower is labelled *Academic Fashion Design Collection, 2023*. The cover uses the original airplane photograph unretouched. The older "A4 portrait" and "Sadah archive must visually lead" instructions below are superseded. Lazima's employment title is **Production Analyst** (Mar 2024 – Jul 2026); never inflate it.
+
 ## NOVEMBER 10 — FULL SOURCE PACKAGE ON ASUS
 
 **Read `docs/CLAUDE_COMPLETE_SOURCE_HANDOFF.md` and `docs/LAYERED_EDITORIAL_PAGE_PLAN.md` first.** The full extracted academic, cover, mockup and Sadah employer image sources are present locally under `source/private/` (git-ignored; not visible in a fresh cloud-only clone). The 12-page Claude-generated PDF is **academic-only**. Professional Sadah 19-photo archive must visually lead; academic sketches remain a supporting ~20% section. Do not claim personal design ownership without evidence. Follow the high-resolution per-layer A4 plan; no generative alteration of faces/clothes. Do not force-push private asset sources to this public GitHub repo.
