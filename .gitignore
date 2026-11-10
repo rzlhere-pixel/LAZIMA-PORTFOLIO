@@ -1,0 +1,21 @@
+# Private / unreviewed documents and media: never push to this public repo.
+source_documents/
+source_text/
+private/
+assets/originals/
+assets/pending/
+*.zip
+*.pdf
+*.pptx
+*.docx
+*.psd
+*.ai
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
