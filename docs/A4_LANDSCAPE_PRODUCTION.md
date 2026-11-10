@@ -58,8 +58,11 @@ python tools/portfolio/produce.py     # -> deliverables/LAZIMA_FASHION_PORTFOLIO
 - Sadah: 5 of 19 archive photos, captioned as garments only, with the approved attribution sentence. No design/styling/photography/modelling claim.
 - Résumé facts only (role, employer, dates, education, skills). No phone, email, LinkedIn or visa status.
 
+## Permissions (owner statement, 10 Nov 2026)
+- Consent is held to share all supplied assets, including the identifiable wearer on the Paper Flower production board (p13).
+- Sadah Fashion Design is comfortable with portfolio use of its archive imagery.
+
 ## Open owner actions
-1. Wearer consent + photographer credit for the Paper Flower production board (p13).
-2. Employer comfort with portfolio use of the 5 Sadah photographs.
-3. Higher-resolution originals of the web-sized sketches/spec sheets for large print (currently 119–181 ppi at placed size).
-4. Approve before any public upload; the repository stays free of images.
+1. Keep written confirmation of the Sadah approval on file.
+2. Higher-resolution originals of the web-sized sketches/spec sheets for large print (currently 119–181 ppi at placed size).
+3. Approve before any public upload; the repository stays free of images.

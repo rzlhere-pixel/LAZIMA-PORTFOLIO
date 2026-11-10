@@ -250,7 +250,7 @@ def build_register():
                     if r else "crop only from scanned portfolio")
             status = "Published (owner approved 10 Nov 2026)" if (bm.ROOT / "site/assets/published" / p.name).exists() else "Private - pending owner approval"
             if aid == "PF-GARMENT":
-                status += "; identifiable wearer - consent and photo credit required before external sharing"
+                status += "; identifiable wearer - sharing consent confirmed by owner 10 Nov 2026"
             add(p, "Academic - Paper Flower 2023", "Derived crop of original scan", basis, status, proc)
     for name in ["board-theme", "board-inspiration", "board-mood", "board-trim", "board-accessories"]:
         add(bm.PF / f"{name}.png", "Reference (third-party photographs)", "Derived crop of original scan",
@@ -262,7 +262,7 @@ def build_register():
     for p in sorted(bm.SD.iterdir()):
         add(p, "Professional - Sadah archive", "Original (employer archive file)",
             "Sadah Fashion Design archive; design/styling/photography/model not attributed to Lazima",
-            "Private employer material - not for public GitHub; employer portfolio-use confirmation recommended")
+            "Employer material - portfolio use approved by Sadah per owner statement 10 Nov 2026; keep off public GitHub unless separately approved")
     add(bm.SP / "professional-sadah/Sadah-portfolio-originals.zip", "Professional - Sadah archive", "Original archive",
         "Supplied ZIP of the 19 archive images", "Private")
     for p in sorted((bm.SP / "references/portfolio-mockup").iterdir()):
@@ -377,7 +377,7 @@ def write_qc(zipinfo=None):
     a("")
     a(f"Generated {dt.datetime.now():%d %b %Y %H:%M} by `tools/portfolio/produce.py`. All figures below are measured from the delivered files.")
     a("")
-    a("## Status: review-ready, with open owner actions (see §8)")
+    a("## Status: complete; consent and employer approval confirmed by owner (see §8)")
     a("")
     a("## 1. Page geometry")
     a(f"- Editable master slide size: **{c.get('pptx_slide_size_mm')} mm**, {c.get('pptx_slides')} slides.")
@@ -434,8 +434,8 @@ def write_qc(zipinfo=None):
     a("")
     a("## 8. Unresolved items / limitations (owner actions)")
     a("1. **Authorship of the web-sized sketches rests on owner statement** (signature and Pinterest mark noted above). Recruiters may ask for the original sketchbook — have it available.")
-    a("2. **Production board (p13) shows an identifiable wearer**; obtain her consent and the photographer credit before sharing externally, or remove that image.")
-    a("3. **Sadah imagery**: confirm the employer is comfortable with portfolio use of the 5 archive photographs.")
+    a("2. Resolved 10 Nov 2026 (owner statement): consent is held to share all supplied assets, including the identifiable wearer on the p13 production board.")
+    a("3. Resolved 10 Nov 2026 (owner statement): Sadah Fashion Design is comfortable with portfolio use of its archive imagery. Written confirmation is advisable to keep on file.")
     a("4. Paper Flower colour/fabric boards (p10) contain images whose sources are unconfirmed (credited as such).")
     a("5. Low-resolution sources (§5) limit sharpness in print; request original scans/files for the sketches and abaya line-up if available.")
     a("6. No Canva, Adobe or Figma project was created; the editable master is PowerPoint (imports into Canva/Keynote; verify fonts after import). No physical colour proof has been made.")

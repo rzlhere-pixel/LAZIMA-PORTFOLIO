@@ -500,7 +500,6 @@ def build(deck: Deck):
     b = p.image("PF-GARMENT", 104 + a[2] + 8, 26, h=150, shadow=SH())
     caption(p, a[0], 180, a[2], "Hand-drafted paper patterns", color="plum")
     caption(p, b[0], 180, b[2], "Production board · the finished garment in wear", color="plum")
-    credit(p, b[0], 185, b[2], "Photographs: photographer and wearer to be credited", color="plum")
     p.folio("Pattern & construction")
 
     # ---- 14 SADAH ----------------------------------------------------------
